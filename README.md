@@ -20,6 +20,10 @@ With one click access additional information on IP or domain from:
 - w3bin
 - Whoisology
 
+### Usage
+
+You can click through any node (circle) and for domain and IP nodes you right click to access the external sources. 
+
 ### Screenshot
 
 [![Screen Shot 2016-09-08 at 12.25.19.png](https://s12.postimg.org/dvhujjoql/Screen_Shot_2016_09_08_at_12_25_19.png)](https://postimg.org/image/qa4mjvg8p/)
