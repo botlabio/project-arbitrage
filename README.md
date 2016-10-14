@@ -43,7 +43,9 @@ You can click through any node (circle) and for domain and IP nodes you right cl
 #### LOCAL MACHINE
 
 2.2.1) Open terminal
+
 2.2.2) Go to the folder where you have the index.html file
+
 2.2.3) Start Python http server: 
 
     python -m SimpleHTTPServer 8000
