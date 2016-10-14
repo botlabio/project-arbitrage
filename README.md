@@ -1,8 +1,9 @@
 # project-arbitrage
 
 WHAT: A data visualization protect to identify traffic flows associated with the largest arbitrage sites in the world. 
-DATA: Ad exchange data aggregated from multiple ad exchange
-TIME: Early July 2015
+DATA: Ad exchange data aggregated from multiple ad exchange.
+
+TIME: Early July 2015.
 
 ### Background
 
